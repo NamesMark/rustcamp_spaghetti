@@ -14,7 +14,6 @@ fn main() {
     // maybe_hooman = None;
     // println!("{}", std::mem::size_of_val(&maybe_hooman));
 
-
     // println!("{}", std::mem::size_of::<Birb>());
     // println!("{}", std::mem::size_of::<Option<Hooman>>());
     // println!("{}", std::mem::size_of::<Option<Gorilla>>());
